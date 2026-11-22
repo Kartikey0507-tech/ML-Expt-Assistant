@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+streamlit
+requests
+pytest
+tensorflow
+numpy
+pandas
+scikit-learn
+google-genai
+python-dotenv
+python-multipart
